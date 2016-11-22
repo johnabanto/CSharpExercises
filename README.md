@@ -1,0 +1,1 @@
+This project we were assigned to setup Visual Basics and do some C# excercises. It was a good experience to get all the excercises to learn the basics of C# and how Visual Basics work. It was challenging at first but when I got started and got to see how it works it made the project really enjoyable.
